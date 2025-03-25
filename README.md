@@ -1,2 +1,2 @@
-# Web project Odin
+# Web Project Odin
 Hello Odin!
